@@ -1,4 +1,4 @@
-# IE 201 - Intermediate Programming	(Spring 2025)
+# IE 201 - Intermediate Programming	(Fall 2025)
 
 **Type:** Required
 
@@ -6,12 +6,12 @@
 
 **Class/Laboratory/PS schedule:** 
 
-	Monday 13:00-15:00 – Regular Class VYKM2
-	Wednesday 11:00-13:00  – Regular Class VYKM3
+	Tuesday 15:00-17:00 – Regular Class M 1170
+	Thursday 9:00-11:00  – Regular Class VYKM 1
 
 **Instructor:** A. Tamer Ünal (unaltam@bogazici.edu.tr)
 
-**TA:** Ozan Eroğlu (ozan.eroglu@boun.edu.tr)
+**TA:** Burak Nur Erdem (burak.erdem@bogazici.edu.tr)
 
 **Prerequisite(s):** 	CMPE 150 (Introduction to Programming) or equivalent. 
 
@@ -57,19 +57,8 @@ Considering these objectives, this course mainly addresses the following student
 
 ## Grading 
 - Homework / Quiz	20%
-- Midterm (in-class)	30%
-- Project		20%
-- Final (in-class)	30%
+- Midterm (in-class)	40%
+- Final (in-class)	40%
 
 
-## Project 
-
-Preparing a term project will constitute a major portion of the expected course work. As a project, students will be responsible for 
-- writing a proposal to develop a software application in Python,
-- writing an analysis report,
-- writing a design report,
-- and finally, developing the software and the appropriate user documentation.
-
-In the project, students are expected to create an original software product. We will employ a zero-tolerance policy against any outside collaboration (human or digital), unless it is specifically allowed in written form.
-
-*Prepared by, and date of preparation: Ali Tamer Ünal, February 2025*
+*Prepared by, and date of preparation: Ali Tamer Ünal, September 2025*
