@@ -1,6 +1,6 @@
 x = 2
 def f():
-    x = x + 2
+    x = 4
     print (x) 			# LINE:1
 
 print (x) 			# LINE:2
