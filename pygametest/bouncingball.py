@@ -34,3 +34,4 @@ while 1:
     pygame.display.flip()
 
     pygame.time.wait(1)
+    
